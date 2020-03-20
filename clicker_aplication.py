@@ -18,6 +18,7 @@ def startGUI():
     window.title("Clicker")
     window.resizable(width=0, height=0)
     window.config(bg=bg)
+    window.iconphoto(False, PhotoImage(file='clickerIcon.png'))
 
     canvas = Canvas(height=100, bg=bg, highlightthickness=0)
     canvas.pack(expand=YES, fill=BOTH)
