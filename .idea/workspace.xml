@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11fc520d-1569-4fec-8737-f88616c97088" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZOhdZeN1bGpXKJFuLWeLcN0ffR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.clicker_aplication">
+    <configuration name="clicker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="clicker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clicker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clicker_aplication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="clicker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clicker_aplication.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prueba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="clicker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prueba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.clicker_aplication" />
+        <item itemvalue="Python.prueba" />
+        <item itemvalue="Python.clicker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11fc520d-1569-4fec-8737-f88616c97088" name="Default Changelist" comment="" />
+      <created>1584716136314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584716136314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="169" width="656" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584721558767">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="352" y="169" width="656" height="402" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.735@0.0.1366.735" timestamp="1584721558767" />
+    <state width="1341" height="170" key="GridCell.Tab.0.bottom" timestamp="1584738506545">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state width="1341" height="170" key="GridCell.Tab.0.bottom/0.0.1366.735@0.0.1366.735" timestamp="1584738506545" />
+    <state width="1341" height="170" key="GridCell.Tab.0.center" timestamp="1584738506545">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state width="1341" height="170" key="GridCell.Tab.0.center/0.0.1366.735@0.0.1366.735" timestamp="1584738506545" />
+    <state width="1341" height="170" key="GridCell.Tab.0.left" timestamp="1584738506544">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state width="1341" height="170" key="GridCell.Tab.0.left/0.0.1366.735@0.0.1366.735" timestamp="1584738506544" />
+    <state width="1341" height="170" key="GridCell.Tab.0.right" timestamp="1584738506545">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state width="1341" height="170" key="GridCell.Tab.0.right/0.0.1366.735@0.0.1366.735" timestamp="1584738506545" />
+    <state width="1341" height="213" key="GridCell.Tab.1.bottom" timestamp="1584737945167">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state width="1341" height="213" key="GridCell.Tab.1.bottom/0.0.1366.735@0.0.1366.735" timestamp="1584737945167" />
+    <state width="1341" height="213" key="GridCell.Tab.1.center" timestamp="1584737945166">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state width="1341" height="213" key="GridCell.Tab.1.center/0.0.1366.735@0.0.1366.735" timestamp="1584737945166" />
+    <state width="1341" height="213" key="GridCell.Tab.1.left" timestamp="1584737945166">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state width="1341" height="213" key="GridCell.Tab.1.left/0.0.1366.735@0.0.1366.735" timestamp="1584737945166" />
+    <state width="1341" height="213" key="GridCell.Tab.1.right" timestamp="1584737945167">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state width="1341" height="213" key="GridCell.Tab.1.right/0.0.1366.735@0.0.1366.735" timestamp="1584737945167" />
+    <state x="164" y="1" width="1037" height="734" key="SettingsEditor" timestamp="1584718979804">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="164" y="1" width="1037" height="734" key="SettingsEditor/0.0.1366.735@0.0.1366.735" timestamp="1584718979804" />
+    <state x="338" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1584716147669">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="338" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.735@0.0.1366.735" timestamp="1584716147669" />
+    <state x="346" y="56" width="672" height="678" key="search.everywhere.popup" timestamp="1584731659830">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="346" y="56" width="672" height="678" key="search.everywhere.popup/0.0.1366.735@0.0.1366.735" timestamp="1584731659830" />
+  </component>
+</project>
