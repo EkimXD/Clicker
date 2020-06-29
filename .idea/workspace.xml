@@ -2,8 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11fc520d-1569-4fec-8737-f88616c97088" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/clicker/bin/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/bin/activate.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/bin/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/bin/easy_install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/bin/easy_install-3.6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/bin/pip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/bin/pip3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/bin/pip3.6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/bin/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/bin/python3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/bin/python3.6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/lib64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/CacheControl-0.11.7-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/appdirs-1.4.3-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/certifi-2018.1.18-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/chardet-3.0.4-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/colorama-0.3.7-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/distlib-0.2.6-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/distro-1.0.1-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/html5lib-0.999999999-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/idna-2.6-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/ipaddress-0.0.0-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/lockfile-0.12.2-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/packaging-17.1-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/pip-9.0.1-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/pkg_resources-0.0.0-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/progress-1.2-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/pyparsing-2.2.0-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/requests-2.18.4-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/retrying-1.3.3-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/setuptools-39.0.1-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/six-1.11.0-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/urllib3-1.22-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/webencodings-0.5-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/wheel-0.30.0-py2.py3-none-any.whl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicker.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clicker_aplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/clicker_aplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,53 +158,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="352" y="169" width="656" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584721558767">
+    <state width="1331" height="169" key="GridCell.Tab.0.bottom" timestamp="1593470115474">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state x="352" y="169" width="656" height="402" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.735@0.0.1366.735" timestamp="1584721558767" />
-    <state width="1341" height="170" key="GridCell.Tab.0.bottom" timestamp="1584745286651">
+    <state width="1331" height="169" key="GridCell.Tab.0.bottom/0.0.1366.735@0.0.1366.735" timestamp="1593470115474" />
+    <state width="1331" height="169" key="GridCell.Tab.0.center" timestamp="1593470115473">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="1341" height="170" key="GridCell.Tab.0.bottom/0.0.1366.735@0.0.1366.735" timestamp="1584745286651" />
-    <state width="1341" height="170" key="GridCell.Tab.0.center" timestamp="1584745286650">
+    <state width="1331" height="169" key="GridCell.Tab.0.center/0.0.1366.735@0.0.1366.735" timestamp="1593470115473" />
+    <state width="1331" height="169" key="GridCell.Tab.0.left" timestamp="1593470115473">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="1341" height="170" key="GridCell.Tab.0.center/0.0.1366.735@0.0.1366.735" timestamp="1584745286650" />
-    <state width="1341" height="170" key="GridCell.Tab.0.left" timestamp="1584745286650">
+    <state width="1331" height="169" key="GridCell.Tab.0.left/0.0.1366.735@0.0.1366.735" timestamp="1593470115473" />
+    <state width="1331" height="169" key="GridCell.Tab.0.right" timestamp="1593470115474">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="1341" height="170" key="GridCell.Tab.0.left/0.0.1366.735@0.0.1366.735" timestamp="1584745286650" />
-    <state width="1341" height="170" key="GridCell.Tab.0.right" timestamp="1584745286650">
+    <state width="1331" height="169" key="GridCell.Tab.0.right/0.0.1366.735@0.0.1366.735" timestamp="1593470115474" />
+    <state x="164" y="1" width="1037" height="734" key="SettingsEditor" timestamp="1584987085550">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="1341" height="170" key="GridCell.Tab.0.right/0.0.1366.735@0.0.1366.735" timestamp="1584745286650" />
-    <state width="1341" height="213" key="GridCell.Tab.1.bottom" timestamp="1584737945167">
-      <screen x="0" y="0" width="1366" height="735" />
-    </state>
-    <state width="1341" height="213" key="GridCell.Tab.1.bottom/0.0.1366.735@0.0.1366.735" timestamp="1584737945167" />
-    <state width="1341" height="213" key="GridCell.Tab.1.center" timestamp="1584737945166">
-      <screen x="0" y="0" width="1366" height="735" />
-    </state>
-    <state width="1341" height="213" key="GridCell.Tab.1.center/0.0.1366.735@0.0.1366.735" timestamp="1584737945166" />
-    <state width="1341" height="213" key="GridCell.Tab.1.left" timestamp="1584737945166">
-      <screen x="0" y="0" width="1366" height="735" />
-    </state>
-    <state width="1341" height="213" key="GridCell.Tab.1.left/0.0.1366.735@0.0.1366.735" timestamp="1584737945166" />
-    <state width="1341" height="213" key="GridCell.Tab.1.right" timestamp="1584737945167">
-      <screen x="0" y="0" width="1366" height="735" />
-    </state>
-    <state width="1341" height="213" key="GridCell.Tab.1.right/0.0.1366.735@0.0.1366.735" timestamp="1584737945167" />
-    <state x="164" y="1" width="1037" height="734" key="SettingsEditor" timestamp="1584718979804">
-      <screen x="0" y="0" width="1366" height="735" />
-    </state>
-    <state x="164" y="1" width="1037" height="734" key="SettingsEditor/0.0.1366.735@0.0.1366.735" timestamp="1584718979804" />
-    <state x="338" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1584716147669">
-      <screen x="0" y="0" width="1366" height="735" />
-    </state>
-    <state x="338" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.735@0.0.1366.735" timestamp="1584716147669" />
-    <state x="346" y="56" width="672" height="678" key="search.everywhere.popup" timestamp="1584731659830">
-      <screen x="0" y="0" width="1366" height="735" />
-    </state>
-    <state x="346" y="56" width="672" height="678" key="search.everywhere.popup/0.0.1366.735@0.0.1366.735" timestamp="1584731659830" />
+    <state x="164" y="1" width="1037" height="734" key="SettingsEditor/0.0.1366.735@0.0.1366.735" timestamp="1584987085550" />
   </component>
 </project>

@@ -141,3 +141,10 @@ cython_debug/
 # static files generated from Django application using `collectstatic`
 media
 static
+
+mouse_log.txt
+clicker_aplication.spec
+venv
+dist
+clicker
+build

@@ -10,8 +10,6 @@ seconds: int = 0
 bg = "#353c4a"
 bg2 = "#495666"
 fg = "#fff"
-
-
 def startGUI():
     global window
     window = Tk()
@@ -113,7 +111,7 @@ def startClicking():
         while listener.is_alive():
             for i in clics:
                 pyautogui.click(i[0], i[1])
-            time.sleep(int(spin.get()))
+            time.sleep(float(spin.get()))
         window.deiconify()
 
 
