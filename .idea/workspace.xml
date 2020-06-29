@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11fc520d-1569-4fec-8737-f88616c97088" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/clicker/bin/activate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/bin/activate.csh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/bin/activate.fish" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/bin/easy_install" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/bin/easy_install-3.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/bin/pip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/bin/pip3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/bin/pip3.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/bin/python" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/bin/python3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/bin/python3.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/lib64" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/CacheControl-0.11.7-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/appdirs-1.4.3-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/certifi-2018.1.18-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/chardet-3.0.4-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/colorama-0.3.7-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/distlib-0.2.6-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/distro-1.0.1-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/html5lib-0.999999999-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/idna-2.6-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/ipaddress-0.0.0-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/lockfile-0.12.2-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/packaging-17.1-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/pip-9.0.1-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/pkg_resources-0.0.0-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/progress-1.2-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/pyparsing-2.2.0-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/requests-2.18.4-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/retrying-1.3.3-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/setuptools-39.0.1-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/six-1.11.0-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/urllib3-1.22-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/webencodings-0.5-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clicker/share/python-wheels/wheel-0.30.0-py2.py3-none-any.whl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clicker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clicker_aplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/clicker_aplication.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prueba.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

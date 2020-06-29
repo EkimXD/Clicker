@@ -144,7 +144,7 @@ static
 
 mouse_log.txt
 clicker_aplication.spec
-venv
-dist
-clicker
-build
+venv/
+dist/
+clicker/
+build/
