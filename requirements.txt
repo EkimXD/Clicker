@@ -9,7 +9,7 @@ MouseInfo==0.1.2
 Pillow==7.0.0
 PyAutoGUI==0.9.48
 PyGetWindow==0.0.8
-Pygments==2.6.1
+Pygments==2.7.4
 PyInstaller==3.6
 PyMsgBox==1.0.7
 pynput==1.6.8
