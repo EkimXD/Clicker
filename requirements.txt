@@ -6,7 +6,7 @@ idna==2.9
 Kivy==1.11.1
 Kivy-Garden==0.1.4
 MouseInfo==0.1.2
-Pillow==7.0.0
+Pillow==9.0.0
 PyAutoGUI==0.9.48
 PyGetWindow==0.0.8
 Pygments==2.6.1
